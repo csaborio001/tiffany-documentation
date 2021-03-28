@@ -1,0 +1,17 @@
+- Getting started
+  - [Getting Here](getting-here.md)
+  - [Getting Around](getting-around.md)
+- The Apartment
+  - [Buzzing In](apartment.md)
+  - [Wifi](apartment-wifi.md)
+  - [Kitchen](apartment-cooking.md)
+  - [Groceries](apartment-groceries.md)
+  - [Washer/ Dryer](apartment-washing.md)
+  - [Trash/Recycle](apartment-trash.md)
+- House Rules
+  - [Basic Rules](basic-rules.md)
+  - [Nougat](nougat.md)
+  - [Checking Out](checking-out.md)
+- Other
+  - [Restaurants](restaurants.md)
+  -
