@@ -1,17 +1,26 @@
-# Modern 2BR in Zetland - General Information
+# Newly Renovated Historic Beechworth Home
 
-> Last Update: 28 Mar 2021
+> Last Update: Feb 23, 2022
 
 <div class="image-container">
-    <img src="img/readme/nougat.jpg" class="front-image" />
+    <img src="img/readme/08-squashed.jpg" class="front-image" />
 </div>
 
 <div class="centered-header">
-    <h1>Welcome to our AirBnB!</h1>
+    <h1>Welcome to Beechworth!</h1>
 </div>
 
-We're very excited to welcome you to our AirBn. Please make sure to read this document
-to understand the house rules and general info about the apartment/neighborhood. If you have
-any questions please contact me anytime!
+We're very excited to welcome you to our AirBnB. Please make sure to read this document
+to understand the house rules and general info about the apartment and neighborhood. If you have
+any questions please contact us anytime!
 
-My name is Christian Saborío and you can reach me anytime at my mobile phone: <a href="tel:+61 04 7863 3737">+61 04 7863 3737</a>. My e-mail address is christian@saborio.org.
+## Your Hosts
+
+### Rikki Raadsveld
+
+Rikki is local to Beechworth and takes care of our guests needs.
+
+### Christian Saborio
+
+Christian lives in Sydney and will be your main point of contact when using the AirBnB application to chat.
+* Added videos and info
