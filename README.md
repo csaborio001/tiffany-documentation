@@ -23,5 +23,3 @@ Rikki is local to Beechworth and takes care of our guests needs.
 ### Christian Saborio
 
 Christian lives in Sydney and will be your main point of contact when using the AirBnB application to chat.
-* Added videos and info
-* Fixed apartment error
