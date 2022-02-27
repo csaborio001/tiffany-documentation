@@ -11,7 +11,7 @@
 </div>
 
 We're very excited to welcome you to our AirBnB. Please make sure to read this document
-to understand the house rules and general info about the apartment and neighborhood. If you have
+to understand the house rules and general info about the house and neighborhood. If you have
 any questions please contact us anytime!
 
 ## Your Hosts
@@ -24,3 +24,4 @@ Rikki is local to Beechworth and takes care of our guests needs.
 
 Christian lives in Sydney and will be your main point of contact when using the AirBnB application to chat.
 * Added videos and info
+* Fixed apartment error
