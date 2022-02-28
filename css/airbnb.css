@@ -36,3 +36,12 @@ body {
 h1, h2, h3 {
     font-family: 'Montserrat', sans-serif;
 }
+
+.sidebar-toggle-button {
+    color: yellow !important;
+    background-color:#0b87da !important;
+}
+
+.github-corner {
+    display: none !important;
+}
