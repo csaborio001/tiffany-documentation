@@ -1,6 +1,6 @@
 # Newly Renovated Historic Beechworth Home
 
-> Last Update: Feb 28, 2022
+> Last Update: March 4, 2022
 
 <div class="image-container">
     <img src="img/readme/08-squashed.jpg" class="front-image" />

@@ -48,4 +48,6 @@ The house address is:
 
 ## Parking
 
+!> Please **close the carport gates** when are not in use.
+
 Off street parking is available. You will need to open the gates.
