@@ -1,6 +1,7 @@
 - Getting started
   - [Getting Here](getting-here.md)
   - [House Rules](basic-rules.md)
+  - [Pet Rules](pets.md)
 - The House
   
   - [Wifi](apartment-wifi.md)

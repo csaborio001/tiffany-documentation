@@ -1,6 +1,6 @@
 # Newly Renovated Historic Beechworth Home
 
-> Last Update: March 4, 2022
+> Last Update: March 5, 2022
 
 <div class="image-container">
     <img src="img/readme/08-squashed.jpg" class="front-image" />
@@ -20,6 +20,8 @@ on the blue square with yellow lines in the upper left corner).
 
 If you have any questions please contact us anytime!
 
+?> Please treat our property with the respect and care as you would your own.
+
 ## Your Hosts
 
 ### Rikki Raadsveld
@@ -29,3 +31,4 @@ Rikki is local to Beechworth and takes care of our guests needs.
 ### Christian Saborio
 
 Christian lives in Sydney and will be your main point of contact when using the AirBnB application to chat.
+* Initial Commit
